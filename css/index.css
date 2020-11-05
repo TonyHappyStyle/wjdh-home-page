@@ -221,14 +221,16 @@
     font-size: 0.4rem;
     color: #767676;
     padding: 0.4rem 0 0;
-    box-sizing: border-box;
-    background-size: 1.2rem 1.26667rem; }
+    box-sizing: border-box; }
     .column01M li:nth-child(1) {
-      background: url("./../image/ads01.png") no-repeat left center; }
+      background: url("./../image/ads01.png") no-repeat left center;
+      background-size: 1.46667rem 1.46667rem; }
     .column01M li:nth-child(2) {
-      background: url("./../image/ads02.png") no-repeat left center; }
+      background: url("./../image/ads02.png") no-repeat left center;
+      background-size: 1.46667rem 1.46667rem; }
     .column01M li:nth-child(3) {
-      background: url("./../image/ads03.png") no-repeat left center; }
+      background: url("./../image/ads03.png") no-repeat left center;
+      background-size: 1.46667rem 1.46667rem; }
     .column01M li h2 {
       margin: 0 0 0.2rem 0; }
     .column01M li .liCont {
